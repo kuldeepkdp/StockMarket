@@ -58,6 +58,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:BASF");
 			symbol.add("NSE:BCLIND");
 			symbol.add("NSE:BEL");
+			symbol.add("NSE:BECTORFOOD");
 			symbol.add("NSE:BERGEPAINT");
 			symbol.add("NSE:BHARTIARTL");
 			symbol.add("NSE:BIKAJI");
