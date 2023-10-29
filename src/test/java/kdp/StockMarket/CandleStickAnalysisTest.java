@@ -49,7 +49,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:ATGL");
 			symbol.add("NSE:AWHCL");
 			symbol.add("NSE:AWL");
-			symbol.add("NSE:BAJAJ-AUTO");
+			symbol.add("NSE:BAJAJ_AUTO");
 			symbol.add("NSE:BAJAJHCARE");
 			symbol.add("NSE:BAJFINANCE");
 			symbol.add("NSE:BALAMINES");
@@ -187,7 +187,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:LTTS");
 			symbol.add("NSE:LUXIND");
 			symbol.add("NSE:LXCHEM");
-			symbol.add("NSE:M&M");
+			symbol.add("NSE:M_M");
 			symbol.add("NSE:MANALIPETC");
 			symbol.add("NSE:MANKIND");
 			symbol.add("NSE:MANYAVAR");
@@ -196,7 +196,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:MASTEK");
 			symbol.add("NSE:MAXHEALTH");
 			symbol.add("NSE:MAZDOCK");
-			symbol.add("NSE:MCDOWELL-N");
+			symbol.add("NSE:MCDOWELL_N");
 			symbol.add("NSE:MCX");
 			symbol.add("NSE:MEDPLUS");
 			symbol.add("NSE:METROBRAND");
@@ -324,15 +324,15 @@ public class CandleStickAnalysisTest {
 			driver.findElement(By.xpath("//*[@id='header-toolbar-intervals']/button")).click();
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//*[contains(text(), '1 month')]")).click();
-			Thread.sleep(10000);
+			Thread.sleep(15000);
 			driver.navigate().to("https://in.tradingview.com/chart/?symbol=BSE%3ASENSEX");
 			driver.switchTo().alert().accept();
-			Thread.sleep(10000);
+			Thread.sleep(15000);
 		   
 			for(String name : symbol ) {
 				
 				driver.navigate().to("https://in.tradingview.com/chart/?symbol=" + name + "");
-				Thread.sleep(10000);
+				Thread.sleep(15000);
 			}
 			
 	    }
