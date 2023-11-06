@@ -43,6 +43,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:APCOTEXIND");
 			symbol.add("NSE:APLAPOLLO");
 			symbol.add("NSE:APOLLOHOSP");
+			symbol.add("NSE:ARROWGREEN");
 			symbol.add("NSE:ASIANPAINT");
 			symbol.add("NSE:ASTEC");
 			symbol.add("NSE:ASTRAL");
@@ -143,6 +144,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:HINDWAREAP");
 			symbol.add("NSE:HINDZINC");
 			symbol.add("NSE:HNDFDS");
+			symbol.add("NSE:HSCL");
 			symbol.add("NSE:HUDCO");
 			symbol.add("NSE:ICEMAKE");
 			symbol.add("NSE:ICICIBANK");
@@ -265,6 +267,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:SBIN");
 			symbol.add("NSE:SCHAEFFLER");
 			symbol.add("NSE:SHARDACROP");
+			symbol.add("NSE:SHANKARA");
 			symbol.add("NSE:SIEMENS");
 			symbol.add("NSE:SJVN");
 			symbol.add("NSE:SKFINDIA");
