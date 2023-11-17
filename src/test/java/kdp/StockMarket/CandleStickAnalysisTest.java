@@ -18,10 +18,12 @@ public class CandleStickAnalysisTest {
 			
 			
 			
+		    symbol.add("BSE:PERMAGN");
 			symbol.add("BSE:JYOTIRES");
 			symbol.add("BSE:PRAVEG");
 			symbol.add("BSE:YASHO");
 			symbol.add("BSE:EKI");
+			symbol.add("BSE:PROTEAN");
 			symbol.add("NSE:AARTIPHARM");
 			symbol.add("NSE:ABFRL");
 			symbol.add("NSE:ACE");
@@ -167,6 +169,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:JBCHEPHARM");
 			symbol.add("NSE:JBMA");
 			symbol.add("NSE:JIOFIN");
+			symbol.add("NSE:JLHL");
 			symbol.add("NSE:JSWENERGY");
 			symbol.add("NSE:JSWSTEEL");
 			symbol.add("NSE:JUBLFOOD");
