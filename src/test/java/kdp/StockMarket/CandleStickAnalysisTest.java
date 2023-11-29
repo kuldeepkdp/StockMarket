@@ -67,7 +67,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:BIKAJI");
 			symbol.add("NSE:BOROLTD");
 			symbol.add("NSE:BORORENEW");
-			symbol.add("NSE:BPCL");
 			symbol.add("NSE:BSE");
 			symbol.add("NSE:BSOFT");
 			symbol.add("NSE:CAMPUS");
@@ -77,6 +76,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:CARYSIL");
 			symbol.add("NSE:CCL");
 			symbol.add("NSE:CDSL");
+			symbol.add("NSE:CELLO");
 			symbol.add("NSE:CENTURYPLY");
 			symbol.add("NSE:CIPLA");
 			symbol.add("NSE:CLEAN");
