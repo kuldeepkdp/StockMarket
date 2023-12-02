@@ -163,6 +163,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:IONEXCHANG");
 			symbol.add("NSE:IPCALAB");
 			symbol.add("NSE:IRCTC");
+			symbol.add("NSE:IREDA");
 			symbol.add("NSE:IRFC");
 			symbol.add("NSE:ISEC");
 			symbol.add("NSE:ITC");
@@ -293,6 +294,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:TATAMOTORS");
 			symbol.add("NSE:TATAPOWER");
 			symbol.add("NSE:TATASTEEL");
+			symbol.add("NSE:TATATECH");
 			symbol.add("NSE:TATVA");
 			symbol.add("NSE:TCIEXP");
 			symbol.add("NSE:TCPLPACK");
