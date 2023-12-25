@@ -102,6 +102,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:DIXON");
 			symbol.add("NSE:DMART");
 			symbol.add("NSE:DODLA");
+			symbol.add("NSE:DOMS");
 			symbol.add("NSE:DREAMFOLKS");
 			symbol.add("NSE:DWARKESH");
 			symbol.add("NSE:EASEMYTRIP");
@@ -159,6 +160,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:INDOCO");
 			symbol.add("NSE:INFIBEAM");
 			symbol.add("NSE:INFY");
+			symbol.add("NSE:INOXINDIA");
 			symbol.add("NSE:IOC");
 			symbol.add("NSE:IONEXCHANG");
 			symbol.add("NSE:IPCALAB");
@@ -172,7 +174,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:JIOFIN");
 			symbol.add("NSE:JLHL");
 			symbol.add("NSE:JSWENERGY");
-			symbol.add("NSE:JSWSTEEL");
+			symbol.add("NSE:JSWINFRA");
 			symbol.add("NSE:JUBLFOOD");
 			symbol.add("NSE:JUBLINGREA");
 			symbol.add("NSE:KABRAEXTRU");
@@ -255,6 +257,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:RAJRATAN");
 			symbol.add("NSE:RCF");
 			symbol.add("NSE:REDINGTON");
+			symbol.add("NSE:REDTAPE");
 			symbol.add("NSE:RELAXO");
 			symbol.add("NSE:RELIANCE");
 			symbol.add("NSE:RHIM");
@@ -264,7 +267,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:ROUTE");
 			symbol.add("NSE:RUPA");
 			symbol.add("NSE:RVNL");
-			symbol.add("NSE:SAIL");
 			symbol.add("NSE:SAREGAMA");
 			symbol.add("NSE:SBCL");
 			symbol.add("NSE:SBILIFE");
@@ -340,6 +342,7 @@ public class CandleStickAnalysisTest {
 			for(String name : symbol ) {
 				
 				driver.navigate().to("https://in.tradingview.com/chart/?symbol=" + name + "");
+				System.out.println("https://in.tradingview.com/chart/?symbol=" + name + "");
 				Thread.sleep(15000);
 			}
 			
