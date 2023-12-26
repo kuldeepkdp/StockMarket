@@ -142,7 +142,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:HEROMOTOCO");
 			symbol.add("NSE:HFCL");
 			symbol.add("NSE:HINDALCO");
-			symbol.add("NSE:HINDCOPPER");
 			symbol.add("NSE:HINDUNILVR");
 			symbol.add("NSE:HINDWAREAP");
 			symbol.add("NSE:HINDZINC");
