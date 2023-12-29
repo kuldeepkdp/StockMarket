@@ -52,6 +52,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:ATGL");
 			symbol.add("NSE:AWHCL");
 			symbol.add("NSE:AWL");
+			symbol.add("NSE:AZAD");
 			symbol.add("NSE:BAJAJ_AUTO");
 			symbol.add("NSE:BAJAJHCARE");
 			symbol.add("NSE:BAJFINANCE");
