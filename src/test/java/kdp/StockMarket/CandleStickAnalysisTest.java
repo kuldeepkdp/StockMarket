@@ -21,6 +21,7 @@ public class CandleStickAnalysisTest {
 		    symbol.add("BSE:PERMAGN");
 			symbol.add("BSE:JYOTIRES");
 			symbol.add("BSE:PRAVEG");
+			symbol.add("BSE:WAAREERTL");
 			symbol.add("BSE:YASHO");
 			symbol.add("BSE:EKI");
 			symbol.add("BSE:PROTEAN");
@@ -250,6 +251,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:POWERINDIA");
 			symbol.add("NSE:PPLPHARMA");
 			symbol.add("NSE:PRAJIND");
+			symbol.add("NSE:PREMEXPLN");
 			symbol.add("NSE:PRICOLLTD");
 			symbol.add("NSE:PRINCEPIPE");
 			symbol.add("NSE:RADICO");
