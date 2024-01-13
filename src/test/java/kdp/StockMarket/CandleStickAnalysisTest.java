@@ -223,6 +223,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:NAZARA");
 			symbol.add("NSE:NELCO");
 			symbol.add("NSE:NEOGEN");
+			symbol.add("NSE:NESTLEIND");
 			symbol.add("NSE:NETWEB");
 			symbol.add("NSE:NEWGEN");
 			symbol.add("NSE:NH");
