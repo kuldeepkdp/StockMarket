@@ -180,6 +180,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:JUBLINGREA");
 			symbol.add("NSE:KABRAEXTRU");
 			symbol.add("NSE:KAJARIACER");
+			symbol.add("NSE:KALYANKJIL");
 			symbol.add("NSE:KAYNES");
 			symbol.add("NSE:KEI");
 			symbol.add("NSE:KIMS");
