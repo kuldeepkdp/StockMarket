@@ -174,6 +174,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:JBMA");
 			symbol.add("NSE:JIOFIN");
 			symbol.add("NSE:JLHL");
+			symbol.add("NSE:JSL");
 			symbol.add("NSE:JSWENERGY");
 			symbol.add("NSE:JSWINFRA");
 			symbol.add("NSE:JUBLFOOD");
@@ -231,6 +232,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:NHPC");
 			symbol.add("NSE:NIITLTD");
 			symbol.add("NSE:NMDC");
+			symbol.add("NSE:NOVAAGRI");
 			symbol.add("NSE:NTPC");
 			symbol.add("NSE:NYKAA");
 			symbol.add("NSE:OFSS");
