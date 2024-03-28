@@ -325,6 +325,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:WIPRO");
 			symbol.add("NSE:WONDERLA");
 			symbol.add("NSE:ZEEL");
+			symbol.add("NSE:ZOMATO");
 			symbol.add("NSE:ZYDUSLIFE");
 			symbol.add("NSE:ZYDUSWELL");
 
