@@ -109,6 +109,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:DWARKESH");
 			symbol.add("NSE:EASEMYTRIP");
 			symbol.add("NSE:EIDPARRY");
+			symbol.add("NSE:EMSLIMITED");
 			symbol.add("NSE:EMUDHRA");
 			symbol.add("NSE:ENGINERSIN");
 			symbol.add("NSE:ESABINDIA");
@@ -124,6 +125,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:GARFIBRES");
 			symbol.add("NSE:GLAND");
 			symbol.add("NSE:GLOBAL");
+			symbol.add("NSE:MEDANTA");
 			symbol.add("NSE:GODREJAGRO");
 			symbol.add("NSE:GOKEX");
 			symbol.add("NSE:GOLDIAM");
@@ -278,6 +280,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:SBILIFE");
 			symbol.add("NSE:SBIN");
 			symbol.add("NSE:SCHAEFFLER");
+			symbol.add("NSE:SDBL");
 			symbol.add("NSE:SHARDACROP");
 			symbol.add("NSE:SHANKARA");
 			symbol.add("NSE:SIEMENS");
@@ -324,6 +327,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:VINATIORGA");
 			symbol.add("NSE:WIPRO");
 			symbol.add("NSE:WONDERLA");
+			symbol.add("NSE:YATHARTH");
 			symbol.add("NSE:ZEEL");
 			symbol.add("NSE:ZOMATO");
 			symbol.add("NSE:ZYDUSLIFE");
