@@ -92,6 +92,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:CRAFTSMAN");
 			symbol.add("NSE:CRISIL");
 			symbol.add("NSE:CUMMINSIND");
+			symbol.add("NSE:CUPID");
 			symbol.add("NSE:CYIENT");
 			symbol.add("NSE:CYIENTDLM");
 			symbol.add("NSE:DABUR");
