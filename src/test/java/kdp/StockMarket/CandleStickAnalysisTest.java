@@ -80,6 +80,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:CDSL");
 			symbol.add("NSE:CELLO");
 			symbol.add("NSE:CENTURYPLY");
+			symbol.add("NSE:CGPOWER");
 			symbol.add("NSE:CIPLA");
 			symbol.add("NSE:CLEAN");
 			symbol.add("NSE:COCHINSHIP");
@@ -110,6 +111,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:DWARKESH");
 			symbol.add("NSE:EASEMYTRIP");
 			symbol.add("NSE:EIDPARRY");
+			symbol.add("NSE:EMBASSY.RR");
 			symbol.add("NSE:EMSLIMITED");
 			symbol.add("NSE:EMUDHRA");
 			symbol.add("NSE:ENGINERSIN");
