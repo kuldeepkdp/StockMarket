@@ -21,6 +21,7 @@ public class CandleStickAnalysisTest {
 		    symbol.add("BSE:PERMAGN");
 			symbol.add("BSE:JYOTIRES");
 			symbol.add("BSE:PRAVEG");
+			symbol.add("BSE:PAUSHAKLTD");
 			symbol.add("BSE:WAAREERTL");
 			symbol.add("BSE:YASHO");
 			symbol.add("BSE:EKI");
@@ -126,6 +127,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:GAIL");
 			symbol.add("NSE:GANECOS");
 			symbol.add("NSE:GARFIBRES");
+			symbol.add("NSE:GRWRHITECH");
 			symbol.add("NSE:GLAND");
 			symbol.add("NSE:GLOBAL");
 			symbol.add("NSE:MEDANTA");
@@ -232,6 +234,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:NEOGEN");
 			symbol.add("NSE:NESTLEIND");
 			symbol.add("NSE:NETWEB");
+			symbol.add("NSE:NEULANDLAB");
 			symbol.add("NSE:NEWGEN");
 			symbol.add("NSE:NH");
 			symbol.add("NSE:NHPC");
