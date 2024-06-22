@@ -17,7 +17,7 @@ public class CandleStickAnalysisTest {
 			
 			
 			
-			
+//Stocks added after line 20		
 		    symbol.add("BSE:PERMAGN");
 			symbol.add("BSE:JYOTIRES");
 			symbol.add("BSE:PRAVEG");
