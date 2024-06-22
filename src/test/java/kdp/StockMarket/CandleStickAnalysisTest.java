@@ -53,10 +53,8 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:ASTRAL");
 			symbol.add("NSE:ATGL");
 			symbol.add("NSE:AWHCL");
-			symbol.add("NSE:AWL");
 			symbol.add("NSE:AZAD");
 			symbol.add("NSE:BAJAJ_AUTO");
-			symbol.add("NSE:BAJAJHCARE");
 			symbol.add("NSE:BAJFINANCE");
 			symbol.add("NSE:BALAMINES");
 			symbol.add("NSE:BALKRISIND");
@@ -175,7 +173,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:IRCTC");
 			symbol.add("NSE:IREDA");
 			symbol.add("NSE:IRFC");
-			symbol.add("NSE:ISEC");
 			symbol.add("NSE:ITC");
 			symbol.add("NSE:JBCHEPHARM");
 			symbol.add("NSE:JBMA");
@@ -197,16 +194,12 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:KPITTECH");
 			symbol.add("NSE:KPRMILL");
 			symbol.add("NSE:LALPATHLAB");
-			symbol.add("NSE:LAURUSLABS");
 			symbol.add("NSE:LICI");
 			symbol.add("NSE:LINDEINDIA");
 			symbol.add("NSE:LT");
 			symbol.add("NSE:LTIM");
 			symbol.add("NSE:LTTS");
-			symbol.add("NSE:LUXIND");
-			symbol.add("NSE:LXCHEM");
 			symbol.add("NSE:M_M");
-			symbol.add("NSE:MANALIPETC");
 			symbol.add("NSE:MANKIND");
 			symbol.add("NSE:MANYAVAR");
 			symbol.add("NSE:MAPMYINDIA");
@@ -220,12 +213,10 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:METROBRAND");
 			symbol.add("NSE:METROPOLIS");
 			symbol.add("NSE:MIDHANI");
-			symbol.add("NSE:MIRZAINT");
 			symbol.add("NSE:MOLDTKPAC");
 			symbol.add("NSE:MPHASIS");
 			symbol.add("NSE:MSTCLTD");
 			symbol.add("NSE:MTARTECH");
-			symbol.add("NSE:MUTHOOTFIN");
 			symbol.add("NSE:NATIONALUM");
 			symbol.add("NSE:NAUKRI");
 			symbol.add("NSE:NAVINFLUOR");
@@ -242,7 +233,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:NMDC");
 			symbol.add("NSE:NOVAAGRI");
 			symbol.add("NSE:NTPC");
-			symbol.add("NSE:NYKAA");
 			symbol.add("NSE:OFSS");
 			symbol.add("NSE:OIL");
 			symbol.add("NSE:OLECTRA");
@@ -279,7 +269,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:ROLEXRINGS");
 			symbol.add("NSE:ROSSARI");
 			symbol.add("NSE:ROUTE");
-			symbol.add("NSE:RUPA");
 			symbol.add("NSE:RVNL");
 			symbol.add("NSE:SAREGAMA");
 			symbol.add("NSE:SBCL");
@@ -304,8 +293,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:SWSOLAR");
 			symbol.add("NSE:SYNGENE");
 			symbol.add("NSE:TANLA");
-			symbol.add("NSE:TARSONS");
-			symbol.add("NSE:TATACHEM");
 			symbol.add("NSE:TATACONSUM");
 			symbol.add("NSE:TATAELXSI");
 			symbol.add("NSE:TATAMOTORS");
@@ -331,10 +318,8 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:VAIBHAVGBL");
 			symbol.add("NSE:VBL");
 			symbol.add("NSE:VINATIORGA");
-			symbol.add("NSE:WIPRO");
 			symbol.add("NSE:WONDERLA");
 			symbol.add("NSE:YATHARTH");
-			symbol.add("NSE:ZEEL");
 			symbol.add("NSE:ZOMATO");
 			symbol.add("NSE:ZYDUSLIFE");
 			symbol.add("NSE:ZYDUSWELL");
