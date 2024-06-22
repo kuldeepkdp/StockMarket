@@ -37,7 +37,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:ALKEM");
 			symbol.add("NSE:ALKYLAMINE");
 			symbol.add("NSE:ALLCARGO");
-			symbol.add("NSE:AMARAJABAT");
+			symbol.add("NSE:AARE_M");
 			symbol.add("NSE:AMBER");
 			symbol.add("NSE:AMBUJACEM");
 			symbol.add("NSE:AMIORG");
@@ -276,6 +276,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:SBIN");
 			symbol.add("NSE:SCHAEFFLER");
 			symbol.add("NSE:SDBL");
+			symbol.add("NSE:SHAKTIPUMP");
 			symbol.add("NSE:SHARDACROP");
 			symbol.add("NSE:SHANKARA");
 			symbol.add("NSE:SIEMENS");
