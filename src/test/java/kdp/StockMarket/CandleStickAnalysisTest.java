@@ -230,6 +230,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:NH");
 			symbol.add("NSE:NHPC");
 			symbol.add("NSE:NIITLTD");
+			symbol.add("NSE:NIITMTS");
 			symbol.add("NSE:NMDC");
 			symbol.add("NSE:NOVAAGRI");
 			symbol.add("NSE:NTPC");
