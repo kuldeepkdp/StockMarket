@@ -49,7 +49,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:APOLLOHOSP");
 			symbol.add("NSE:ARROWGREEN");
 			symbol.add("NSE:ASIANPAINT");
-			symbol.add("NSE:ASTEC");
 			symbol.add("NSE:ASTRAL");
 			symbol.add("NSE:ATGL");
 			symbol.add("NSE:AWHCL");
