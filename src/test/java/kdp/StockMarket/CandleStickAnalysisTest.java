@@ -162,7 +162,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:IDFCFIRSTB");
 			symbol.add("NSE:IEX");
 			symbol.add("NSE:INDIAMART");
-			symbol.add("NSE:INDOCO");
 			symbol.add("NSE:INFIBEAM");
 			symbol.add("NSE:INFY");
 			symbol.add("NSE:INOXINDIA");
@@ -196,7 +195,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:LICI");
 			symbol.add("NSE:LINDEINDIA");
 			symbol.add("NSE:LT");
-			symbol.add("NSE:LTIM");
 			symbol.add("NSE:LTTS");
 			symbol.add("NSE:M_M");
 			symbol.add("NSE:MANKIND");
@@ -237,7 +235,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:OIL");
 			symbol.add("NSE:OLECTRA");
 			symbol.add("NSE:ONGC");
-			symbol.add("NSE:ORIENTELEC");
 			symbol.add("NSE:PAKKA");
 			symbol.add("NSE:PANAMAPET");
 			symbol.add("NSE:PARAS");
@@ -277,7 +274,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:SCHAEFFLER");
 			symbol.add("NSE:SDBL");
 			symbol.add("NSE:SHAKTIPUMP");
-			symbol.add("NSE:SHARDACROP");
 			symbol.add("NSE:SHANKARA");
 			symbol.add("NSE:SIEMENS");
 			symbol.add("NSE:SJVN");
@@ -303,9 +299,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:TATVA");
 			symbol.add("NSE:TCIEXP");
 			symbol.add("NSE:TCPLPACK");
-			symbol.add("NSE:TCS");
-			symbol.add("NSE:TECHM");
-			symbol.add("NSE:THYROCARE");
 			symbol.add("NSE:TIINDIA");
 			symbol.add("NSE:TIMKEN");
 			symbol.add("NSE:TIPSINDLTD");
