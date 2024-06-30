@@ -299,6 +299,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:TATVA");
 			symbol.add("NSE:TCIEXP");
 			symbol.add("NSE:TCPLPACK");
+			symbol.add("NSE:THERMAX");
 			symbol.add("NSE:TIINDIA");
 			symbol.add("NSE:TIMKEN");
 			symbol.add("NSE:TIPSINDLTD");
