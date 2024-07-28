@@ -20,6 +20,7 @@ public class CandleStickAnalysisTest {
 	
 		    symbol.add("BSE:PERMAGN");
 			symbol.add("BSE:JYOTIRES");
+			symbol.add("BSE:PICCADIL");
 			symbol.add("BSE:PRAVEG");
 			symbol.add("BSE:PAUSHAKLTD");
 			symbol.add("BSE:WAAREERTL");
@@ -245,7 +246,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:PIIND");
 			symbol.add("NSE:POLYCAB");
 			symbol.add("NSE:POLYMED");
-			symbol.add("NSE:POLYPLEX");
 			symbol.add("NSE:POWERGRID");
 			symbol.add("NSE:POWERINDIA");
 			symbol.add("NSE:PPLPHARMA");
@@ -256,7 +256,6 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:RADICO");
 			symbol.add("NSE:RAINBOW");
 			symbol.add("NSE:RAJRATAN");
-			symbol.add("NSE:RCF");
 			symbol.add("NSE:REDINGTON");
 			symbol.add("NSE:REDTAPE");
 			symbol.add("NSE:RELAXO");
@@ -273,6 +272,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:SBIN");
 			symbol.add("NSE:SCHAEFFLER");
 			symbol.add("NSE:SDBL");
+			symbol.add("NSE:SENCO");
 			symbol.add("NSE:SHAKTIPUMP");
 			symbol.add("NSE:SHANKARA");
 			symbol.add("NSE:SIEMENS");
@@ -313,6 +313,7 @@ public class CandleStickAnalysisTest {
 			symbol.add("NSE:VAIBHAVGBL");
 			symbol.add("NSE:VBL");
 			symbol.add("NSE:VINATIORGA");
+			symbol.add("NSE:WABAG");
 			symbol.add("NSE:WONDERLA");
 			symbol.add("NSE:YATHARTH");
 			symbol.add("NSE:ZOMATO");
